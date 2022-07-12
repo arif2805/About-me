@@ -7,6 +7,6 @@ I'm Md Ariful Islam ( Arif), and I do content on design and development. I have 
 * JavaScript/ HTML & CSS/ Graphic Design/ Video editing
 
 ## Examples of Work
-<img src="https://github.com/arif2805/arif/commit/7d13d7fe756aecde59703d2a4311c4ccbd998d0c" width="256"/>
+<img src="https://github.com/arif2805/arif/commit/7d13d7fe756aecde59703d2a4311c4ccbd998d0c" />
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arif2805)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/arif2805)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohammad-ariful-islam-315092140//)  
